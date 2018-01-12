@@ -1,0 +1,64 @@
+0000000006
+-1 V_Inf_Flex
+: 8 4 5 3 4 2 3 1 2 1 1 1 
+t 6 5 
+t 6 6 
+t 6 7 
+t 6 8 
+: -3 9 
+: -4 9 9 9 
+: -2 9 7 9 
+: -2 9 9 9 7 9 
+t 
+f 
+-2 metelhe
+: 14 1 13 1 12 1 11 1 10 1 
+t 
+f 
+-3 enclit-s
+: -2 2 15 1 
+: 6 3 
+t 
+: -5 2 7 2 
+f 
+-4 enclit-m
+: -2 1 -6 1 7 1 
+t 
+f 
+-5 lola
+: 16 1 
+: 19 2 17 2 
+: 20 4 18 3 
+: 20 4 
+t 
+f 
+-6 nona
+: 21 1 
+: 19 2 17 2 
+: 20 4 18 3 
+: 20 4 
+t 
+f 
+%<E>
+%es/:W2s
+%mos/:W1p
+%des/:W2p
+%em/:W3p
+%<E>/:W1s
+%-
+%nos/+PRO
+%<E>/:W3s:W
+%se/+PRO
+%me/+PRO
+%te/+PRO
+%lhe/+PRO
+%vos/+PRO
+%lhes/+PRO
+%LL
+%l
+%a
+%s
+%o
+%<E>/+PRO
+%n
+f

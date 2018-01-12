@@ -1,0 +1,251 @@
+0000000021
+-1 V088
+: -2 3 -3 3 -4 3 -9 3 -10 3 6 2 1 1 
+: -5 3 -6 3 -7 3 -8 3 -14 3 9 3 8 3 6 6 4 5 3 5 2 4 
+: -11 7 7 7 
+t 
+t 10 9 6 8 
+: -13 3 5 10 
+: -12 7 
+: 6 11 
+: -15 3 
+: 11 3 
+t 6 8 
+: -9 3 -10 3 
+f 
+-2 V_Inf_3
+: -16 2 12 1 
+: 6 3 
+t 
+: -12 2 
+f 
+-3 V_PretMQP_3
+: 17 1 16 1 15 1 14 1 13 1 
+t 
+f 
+-4 V_FutSub_3
+: -17 4 21 3 20 2 19 2 18 1 
+t 6 5 
+: 6 6 
+t 10 7 6 5 
+t 
+: -18 4 7 4 
+: -12 4 
+: 11 4 
+f 
+-5 V_PretPer_3
+: 27 4 26 1 25 3 24 2 23 2 22 1 
+t 6 5 
+t 6 6 
+t 10 8 6 7 
+t 10 8 6 5 
+: -15 9 
+: -19 9 
+: -20 9 
+: 11 9 
+t 
+f 
+-6 V_PretImpI_2_3
+: 34 5 32 4 30 3 29 2 28 1 
+t 6 6 
+t 6 7 
+t 10 9 6 8 
+: 33 2 31 2 
+t 10 9 6 6 
+: -15 10 
+: -19 10 
+: -20 10 
+: 11 10 
+t 
+f 
+-7 V_Part_Regular
+: 38 1 37 1 36 1 35 1 
+t 
+f 
+-8 V_PretImpS_3
+: 41 2 40 2 39 2 32 1 
+: 43 2 42 2 
+t 
+f 
+-9 V_FutPres
+: 49 1 48 1 47 1 46 1 45 1 44 1 
+t 
+f 
+-10 V_FutPret
+: 54 1 53 1 52 1 51 1 50 1 
+t 
+f 
+-11 MTlhe
+: 60 1 59 1 58 1 57 1 56 1 55 1 
+t 
+f 
+-12 lola
+: 61 1 
+: 64 2 62 2 
+: 65 4 63 3 
+: 65 4 
+t 
+f 
+-13 V_PresSub_2_3
+: 71 4 70 3 69 2 68 2 67 2 66 1 
+t 6 5 
+t 6 6 
+t 10 8 6 7 
+t 10 8 6 5 
+: -15 9 
+: -19 9 
+: -20 9 
+: 11 9 
+t 
+f 
+-14 V_PresI_3_Menos_1s
+: 76 1 75 3 74 2 73 1 72 1 
+t 6 4 
+t 10 6 6 5 
+t 10 6 6 7 
+: -19 8 
+: -20 8 
+: 11 8 
+: -15 8 
+t 
+f 
+-15 enclit
+: -18 1 80 1 79 1 78 1 77 1 7 1 
+t 
+f 
+-16 V_Inf_Flex
+: 86 4 85 3 84 2 83 1 82 1 81 1 
+t 6 5 
+t 6 6 
+t 6 7 
+t 6 8 
+: -19 9 
+: -20 9 57 9 
+: -18 9 7 9 
+: -18 9 57 9 7 9 
+t 
+f 
+-17 V_FutSub_Menos1s3s
+: 90 2 89 1 88 1 87 1 
+t 6 3 
+t 10 5 6 4 
+: -19 6 
+: -20 6 
+: 11 6 
+t 
+f 
+-18 metelhe
+: 60 1 59 1 58 1 56 1 55 1 
+t 
+f 
+-19 enclit-s
+: -18 2 91 1 
+: 6 3 
+t 
+: -12 2 7 2 
+f 
+-20 enclit-m
+: -18 1 -21 1 7 1 
+t 
+f 
+-21 nona
+: 92 1 
+: 64 2 62 2 
+: 65 4 63 3 
+: 65 4 
+t 
+f 
+%<E>
+%L
+%ndo/:G
+%LLç
+%LLLiç
+%o/:P1s
+%-
+%nos/+PRO
+%Le/:Y2s
+%<E>/:Y2p
+%-/+PRO
+%se
+%L/:W1s:W3s
+%a/:Q1s:Q3s
+%as/:Q2s
+%am/:Q3p
+%LLíramos/:Q1p
+%LLíreis/:Q2p
+%<E>/:U1s
+%LLi/:U1s
+%LLi/:U3s
+%<E>/:U3s
+%ste/:J2s
+%mos/:J1p
+%stes/:J2p
+%ram/:J3p
+%<E>/:J1s
+%u/:J3s
+%Lia/:I1s
+%Lias/:I2s
+%Liam/:I3p
+%amos/:I1p
+%Lí
+%eis/:I2p
+%Lia/:I3s
+%do/:Kms
+%da/:Kfs
+%dos/:Kmp
+%das/:Kfp
+%sse/:T1s:T3s
+%sses/:T2s
+%ssem/:T3p
+%ssemos/:T1p
+%sseis/:T2p
+%ei/:F1s
+%ás/:F2s
+%á/:F3s
+%emos/:F1p
+%eis/:F2p
+%ão/:F3p
+%ia/:C1s:C3s
+%ias/:C2s
+%íamos/:C1p
+%íeis/:C2p
+%iam/:C3p
+%me/+PRO
+%te/+PRO
+%se/+PRO
+%lhe/+PRO
+%vos/+PRO
+%lhes/+PRO
+%l
+%a
+%s
+%o
+%<E>/+PRO
+%a/:S1s
+%as/:S2s
+%amos/:S1p:Y1p
+%ais/:S2p
+%am/:S3p:Y3p
+%a/:S3s:Y3s
+%mos/:P1p
+%s/:P2p
+%Lem/:P3p
+%Le/:P3s
+%Les/:P2s
+%o/+PRO
+%a/+PRO
+%os/+PRO
+%as/+PRO
+%es/:W2s
+%mos/:W1p
+%des/:W2p
+%em/:W3p
+%<E>/:W1s
+%<E>/:W3s:W
+%es/:U2s
+%mos/:U1p
+%des/:U2p
+%em/:U3p
+%LL
+%n
+f

@@ -1,0 +1,78 @@
+0000000007
+-1 V_PretPer_por_impor
+: 6 5 5 4 4 3 3 2 2 2 1 1 
+t 7 6 
+t 7 7 
+t 8 9 7 8 
+t 11 11 7 10 
+t 8 9 7 10 
+: -2 12 
+: -6 12 
+: -3 12 
+: 9 12 
+: -4 12 10 12 
+: 7 13 
+t 
+: -5 12 
+f 
+-2 enclit
+: -4 1 15 1 14 1 13 1 12 1 10 1 
+t 
+f 
+-3 enclit-m
+: -4 1 -7 1 10 1 
+t 
+f 
+-4 metelhe
+: 20 1 19 1 18 1 17 1 16 1 
+t 
+f 
+-5 lola
+: 21 1 
+: 24 2 22 2 
+: 25 4 23 3 
+: 25 4 
+t 
+f 
+-6 enclit-s
+: -4 2 26 1 
+: 7 3 
+t 
+: -5 2 10 2 
+f 
+-7 nona
+: 27 1 
+: 24 2 22 2 
+: 25 4 23 3 
+: 25 4 
+t 
+f 
+%<E>
+%useste/:J2s
+%usemos/:J1p
+%usestes/:J2p
+%useram/:J3p
+%us/:J1s
+%ôs/:J3s
+%-
+%-/+PRO
+%se
+%nos/+PRO
+%L
+%o/+PRO
+%a/+PRO
+%os/+PRO
+%as/+PRO
+%me/+PRO
+%te/+PRO
+%lhe/+PRO
+%vos/+PRO
+%lhes/+PRO
+%l
+%a
+%s
+%o
+%<E>/+PRO
+%LL
+%n
+f

@@ -1,0 +1,79 @@
+0000000007
+-1 V_PretPer_2_Fazer
+: 9 5 8 6 6 5 5 4 4 3 3 2 2 2 1 1 
+t 7 7 
+t 7 8 
+t 10 10 7 9 
+t 7 11 
+: 7 12 
+t 10 10 7 11 
+: -3 13 
+: -4 13 
+: -5 13 
+: 11 13 
+: -6 13 12 13 
+: -2 13 
+t 
+f 
+-2 lola
+: 13 1 
+: 16 2 14 2 
+: 17 4 15 3 
+: 17 4 
+t 
+f 
+-3 enclit
+: -6 1 21 1 20 1 19 1 18 1 12 1 
+t 
+f 
+-4 enclit-s
+: -6 2 22 1 
+: 7 3 
+t 
+: -2 2 12 2 
+f 
+-5 enclit-m
+: -6 1 -7 1 12 1 
+t 
+f 
+-6 metelhe
+: 27 1 26 1 25 1 24 1 23 1 
+t 
+f 
+-7 nona
+: 28 1 
+: 16 2 14 2 
+: 17 4 15 3 
+: 17 4 
+t 
+f 
+%<E>
+%este/:J2s
+%emos/:J1p
+%estes/:J2p
+%eram/:J3p
+%<E>/:J1s
+%L/:J1s
+%-
+%LLez/:J3s
+%ê/:J3s
+%-/+PRO
+%se
+%nos/+PRO
+%l
+%a
+%s
+%o
+%<E>/+PRO
+%o/+PRO
+%a/+PRO
+%os/+PRO
+%as/+PRO
+%LL
+%me/+PRO
+%te/+PRO
+%lhe/+PRO
+%vos/+PRO
+%lhes/+PRO
+%n
+f

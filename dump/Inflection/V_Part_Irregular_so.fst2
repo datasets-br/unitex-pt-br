@@ -1,0 +1,13 @@
+0000000001
+-1 V_Part_Irregular_so
+: 5 1 
+: 4 2 3 2 2 2 1 2 
+t 
+f 
+%<E>
+%o/:Kms
+%a/:Kfs
+%os/:Kmp
+%as/:Kfp
+%s
+f

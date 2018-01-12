@@ -1,0 +1,49 @@
+0000000004
+-1 V_Inf_por_impor
+: -2 2 1 1 
+: 2 3 
+t 
+: -3 2 
+f 
+-2 V_Inf_Flex_por_impor
+: 10 3 9 2 7 1 
+t 2 4 
+: 6 1 5 5 4 5 3 5 
+: 2 4 
+: -4 5 8 5 
+t 
+f 
+-3 lola
+: 11 1 
+: 14 2 12 2 
+: 15 4 13 3 
+: 15 4 
+t 
+f 
+-4 MTlhe
+: 21 1 20 1 19 1 18 1 17 1 16 1 
+t 
+f 
+%<E>
+%LLô/:W1s:W3s
+%-
+%ores/:W2s
+%ormos/:W1p
+%ordes/:W2p
+%orem/:W3p
+%<E>/:W1:W3:W
+%nos/+PRO
+%LL
+%LLor/:W1s:W3s:W
+%l
+%a
+%s
+%o
+%<E>/+PRO
+%me/+PRO
+%te/+PRO
+%se/+PRO
+%lhe/+PRO
+%vos/+PRO
+%lhes/+PRO
+f

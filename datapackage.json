@@ -1,0 +1,124 @@
+{
+  "name": "unitex-pt-br",
+  "title": "Brazilian portuguese in Unitex tabular representations",
+  "description": "UnitexGramLab sources of pt-BR dictionary adapted to Frictionlessdata.io standards for interoperability.",
+  "repository": {
+    "type": "git",
+    "url": "http://datasets.ok.org.br/unitex-pt-br"
+  },
+  "sources": [{
+      "title": "Unitex/GramLab Language Resources",
+      "name": "UnitexGramLab",
+      "web": "https://github.com/UnitexGramLab/unitex-lingua"
+    }
+  ],
+  "keywords": [
+    "pt-BR",
+    "dictionary",
+    "ortografy"
+  ],
+  "license": {
+    "type": "LGPLLR",
+    "url": "https://spdx.org/licenses/LGPLLR.html"
+  },
+  "resources": [
+    {
+      "name": "Alphabet.csv",
+      "path": "data/ref-applications.csv",
+      "url": "https://raw.githubusercontent.com/datasets-br/unitex-pt-br/master/data/Alphabet.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "rdfType": "http://wikidata.org/entity/Q540987",
+      "title": "The Brazilain Portuguese Alphabet",
+      "lang": "en",
+      "schema": {
+        "fields": [
+          {
+            "name": "letter_pair",
+            "description": "A pair of upper-lower case letters (or other valid symbols) used to express portuguese words",
+            "type": "string"
+          }
+        ]
+      },
+      "primaryKey": "letter_pair"
+    },
+    {
+      "name": "Alphabet_sort.csv",
+      "path": "data/ref-applications.csv",
+      "url": "https://raw.githubusercontent.com/datasets-br/unitex-pt-br/master/data/Alphabet.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "rdfType": "http://wikidata.org/entity/Q14953108",
+      "title": "The Brazilain Portuguese collation (alphabet sorting)",
+      "lang": "en",
+      "schema": {
+        "fields": [
+          {
+            "name": "group",
+            "description": "A sequence (secondary order) of equivalent-order letters",
+            "type": "string"
+          }
+        ]
+      },
+      "primaryKey": "group"
+    },
+    {
+      "name": "DELAS.csv",
+      "path": "data/ref-applications.csv",
+      "url": "https://raw.githubusercontent.com/datasets-br/unitex-pt-br/master/data/DELAS.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "title": "Dictionary of the Brazilain Portuguese Simple Words",
+      "lang": "en",
+      "schema": {
+        "fields": [
+          {
+            "name": "lemma",
+            "description": "The canonic form of a set of inflected variatns",
+            "type": "string",
+            "rdfType": "http://wikidata.org/entity/Q18514"
+          },
+          {
+            "name": "graph",
+            "description": "The Unitex Graph of inflections, that generates all final forms of simple words",
+            "type": "string",
+            "rdfType": "http://wikidata.org/entity/Q2118599"
+          }
+        ]
+      },
+      "primaryKey": "lemma"
+    },
+    {
+      "name": "DELAS.csv",
+      "path": "data/ref-applications.csv",
+      "url": "https://raw.githubusercontent.com/datasets-br/unitex-pt-br/master/data/DELAS.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "rdfType": "http://schema.org/SoftwareApplication",
+      "title": "Dictionary of Compound Words of Brazilian Portuguese",
+      "lang": "en",
+      "schema": {
+        "fields": [
+          {
+            "name": "lemma_plural",
+            "description": "The plural form of a composed variant",
+            "type": "string"
+          },
+          {
+            "name": "lemma_singular",
+            "description": "The singular form of a composed variant",
+            "type": "string"
+          },
+          {
+            "name": "classification",
+            "description": "The lemma morphological classification in the Unitex conventions",
+            "type": "string",
+            "rdfType": "http://wikidata.org/entity/Q1276148"
+          }
+        ]
+      },
+      "primaryKey": "lemma_plural"
+    }
+  ],
+  "homepage": "https://github.com/datasets-br/unitex-pt-br"
+}

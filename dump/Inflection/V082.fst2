@@ -1,0 +1,261 @@
+0000000019
+-1 V082
+: -2 3 -3 3 -4 3 -10 3 -11 3 3 2 1 1 
+: -5 3 -6 3 -7 3 -9 3 -12 3 7 6 6 3 5 3 3 5 2 4 
+: -13 7 4 7 
+t 
+t 8 9 3 8 
+: -14 7 
+: -8 3 
+: 3 10 
+: -15 3 
+: 9 3 
+: -10 3 -11 3 
+f 
+-2 V_Inf_Flex_IR_seqvogal
+: 17 5 16 4 15 3 14 2 12 1 11 1 
+t 3 6 
+t -18 7 8 8 4 7 
+: 13 9 10 1 
+: 3 10 
+t -18 7 4 7 
+: -16 7 
+t 
+: 9 7 
+t 8 8 3 11 
+: -14 7 
+: -17 7 
+f 
+-3 V_PretMQP_3_seqvogal
+: 15 1 
+: 23 5 22 3 21 3 20 4 19 3 18 2 
+t 3 6 
+t 3 7 
+t 8 9 3 8 
+t 8 9 3 6 
+: -15 10 
+: -16 10 
+: -17 10 
+: 9 10 
+t 
+f 
+-4 V_FutSub_3_seqvogal
+: 30 5 29 4 28 3 26 2 25 2 15 1 
+: 27 6 24 2 
+t 3 7 
+t -18 8 4 8 
+: 3 9 
+t -18 8 8 10 4 8 
+t 8 10 3 11 
+: -16 8 
+t 
+: -14 8 
+: 9 8 
+: -17 8 
+f 
+-5 V_PresI_3_seqvogal_A
+: 36 5 35 4 34 3 33 2 7 1 
+: 32 4 31 4 
+t 8 7 3 6 
+t 8 7 3 8 
+t 3 9 
+t 3 8 
+: -17 10 
+: 9 10 
+: -15 10 
+: -16 10 
+t 
+f 
+-6 V_PretPer_3_seqvogal
+: 42 2 7 1 
+: 41 3 40 5 39 4 38 4 37 3 
+t 8 7 3 6 
+t 3 6 
+t 3 8 
+t 8 7 3 9 
+: -15 10 
+: 9 10 
+: -16 10 
+: -17 10 
+t 
+f 
+-7 V_PretImpI_3_seqvogal
+: 7 1 
+: 48 5 47 3 46 3 45 4 44 3 43 2 
+t 3 6 
+t 3 7 
+t 8 9 3 8 
+t 8 9 3 6 
+: -15 10 
+: -16 10 
+: -17 10 
+: 9 10 
+t 
+f 
+-8 V_Part_Regular
+: 52 1 51 1 50 1 49 1 
+t 
+f 
+-9 V_PresSub_2_3
+: 58 4 57 3 56 2 55 2 54 2 53 1 
+t 3 5 
+t 3 6 
+t 8 8 3 7 
+t 8 8 3 5 
+: -15 9 
+: -16 9 
+: -17 9 
+: 9 9 
+t 
+f 
+-10 V_FutPres
+: 64 1 63 1 62 1 61 1 60 1 59 1 
+t 
+f 
+-11 V_FutPret
+: 69 1 68 1 67 1 66 1 65 1 
+t 
+f 
+-12 V_PretImpS_3_seqvogal
+: 7 1 
+: 75 5 74 3 73 3 72 4 71 3 70 2 
+t 3 6 
+t 3 7 
+t 8 9 3 8 
+t 8 9 3 6 
+: -15 10 
+: -16 10 
+: -17 10 
+: 9 10 
+t 
+f 
+-13 MTlhe
+: 81 1 80 1 79 1 78 1 77 1 76 1 
+t 
+f 
+-14 lola
+: 82 1 
+: 85 2 83 2 
+: 86 4 84 3 
+: 86 4 
+t 
+f 
+-15 enclit
+: -18 1 90 1 89 1 88 1 87 1 4 1 
+t 
+f 
+-16 enclit-s
+: -18 2 91 1 
+: 3 3 
+t 
+: -14 2 4 2 
+f 
+-17 enclit-m
+: -18 1 -19 1 4 1 
+t 
+f 
+-18 metelhe
+: 81 1 80 1 79 1 77 1 76 1 
+t 
+f 
+-19 nona
+: 92 1 
+: 85 2 83 2 
+: 86 4 84 3 
+: 86 4 
+t 
+f 
+%<E>
+%L
+%ndo/:G
+%-
+%nos/+PRO
+%<E>/:Y2s
+%Lí/:Y2p
+%Lí
+%-/+PRO
+%se
+%es/:W2s
+%mos/:W1p
+%des/:W2p
+%em/:W3p
+%<E>/:W3s:W
+%LLír
+%L/:W1s:W3s
+%<E>/:W31
+%a/:Q1s
+%as/:Q2s
+%am/:Q3p
+%amos/:Q1p
+%eis/:Q2p
+%a/:Q3s
+%es/:U2s
+%mos/:U1p
+%des/:U2p
+%em/:U3p
+%<E>/:U1s
+%L/:U1s:U3s
+%<E>/:U3s
+%mos/:P1p
+%s/:P2p
+%Lem/:P3p
+%<E>/:P3s
+%s/:P2s
+%o/:P1s
+%ste/:J2s
+%mos/:J1p
+%stes/:J2p
+%ram/:J3p
+%<E>/:J1s
+%u/:J3s
+%a/:I1s
+%as/:I2s
+%am/:I3p
+%amos/:I1p
+%eis/:I2p
+%a/:I3s
+%do/:Kms
+%da/:Kfs
+%dos/:Kmp
+%das/:Kfp
+%a/:S1s
+%as/:S2s
+%amos/:S1p:Y1p
+%ais/:S2p
+%am/:S3p:Y3p
+%a/:S3s:Y3s
+%ei/:F1s
+%ás/:F2s
+%á/:F3s
+%emos/:F1p
+%eis/:F2p
+%ão/:F3p
+%ia/:C1s:C3s
+%ias/:C2s
+%íamos/:C1p
+%íeis/:C2p
+%iam/:C3p
+%sse/:T1s:T3s
+%sses/:T2s
+%ssem/:T3p
+%ssemos/:T1p
+%sseis/:T2p
+%sse/:T3s
+%me/+PRO
+%te/+PRO
+%se/+PRO
+%lhe/+PRO
+%vos/+PRO
+%lhes/+PRO
+%l
+%a
+%s
+%o
+%<E>/+PRO
+%o/+PRO
+%a/+PRO
+%os/+PRO
+%as/+PRO
+%LL
+%n
+f

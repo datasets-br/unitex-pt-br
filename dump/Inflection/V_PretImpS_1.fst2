@@ -1,0 +1,74 @@
+0000000007
+-1 V_PretImpS_1
+: 10 1 4 4 3 3 2 2 1 1 
+t 7 5 
+t 7 6 
+t 8 8 7 7 
+: 6 2 5 2 
+: -2 9 
+: -3 9 
+: -4 9 
+: 9 9 
+t 
+f 
+-2 enclit
+: -5 1 15 1 14 1 13 1 12 1 11 1 
+t 
+f 
+-3 enclit-s
+: -5 2 16 1 
+: 7 3 
+t 
+: -6 2 15 2 
+f 
+-4 enclit-m
+: -5 1 -7 1 15 1 
+t 
+f 
+-5 metelhe
+: 21 1 20 1 19 1 18 1 17 1 
+t 
+f 
+-6 lola
+: 22 1 
+: 25 2 23 2 
+: 26 4 24 3 
+: 26 4 
+t 
+f 
+-7 nona
+: 27 1 
+: 25 2 23 2 
+: 26 4 24 3 
+: 26 4 
+t 
+f 
+%<E>
+%sse/:T1s
+%sses/:T2s
+%ssem/:T3p
+%Lá
+%ssemos/:T1p
+%sseis/:T2p
+%-
+%-/+PRO
+%se
+%sse/:T3s
+%o/+PRO
+%a/+PRO
+%os/+PRO
+%as/+PRO
+%nos/+PRO
+%LL
+%me/+PRO
+%te/+PRO
+%lhe/+PRO
+%vos/+PRO
+%lhes/+PRO
+%l
+%a
+%s
+%o
+%<E>/+PRO
+%n
+f

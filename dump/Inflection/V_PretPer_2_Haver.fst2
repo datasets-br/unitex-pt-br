@@ -1,0 +1,73 @@
+0000000007
+-1 V_PretPer_2_Haver
+: 9 4 5 1 4 3 3 2 2 2 1 1 
+t 6 5 
+t 6 6 
+t 7 8 6 7 
+t 7 8 6 5 
+: -2 9 
+: -3 9 
+: -4 9 
+: 8 9 
+t 
+f 
+-2 enclit
+: -5 1 14 1 13 1 12 1 11 1 10 1 
+t 
+f 
+-3 enclit-s
+: -5 2 15 1 
+: 6 3 
+t 
+: -6 2 14 2 
+f 
+-4 enclit-m
+: -5 1 -7 1 14 1 
+t 
+f 
+-5 metelhe
+: 20 1 19 1 18 1 17 1 16 1 
+t 
+f 
+-6 lola
+: 21 1 
+: 24 2 22 2 
+: 25 4 23 3 
+: 25 4 
+t 
+f 
+-7 nona
+: 26 1 
+: 24 2 22 2 
+: 25 4 23 3 
+: 25 4 
+t 
+f 
+%<E>
+%este/:J2s
+%emos/:J1p
+%estes/:J2p
+%eram/:J3p
+%e/:J1s
+%-
+%-/+PRO
+%se
+%e/:J3s
+%o/+PRO
+%a/+PRO
+%os/+PRO
+%as/+PRO
+%nos/+PRO
+%LL
+%me/+PRO
+%te/+PRO
+%lhe/+PRO
+%vos/+PRO
+%lhes/+PRO
+%l
+%a
+%s
+%o
+%<E>/+PRO
+%n
+f

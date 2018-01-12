@@ -1,0 +1,71 @@
+0000000007
+-1 V_PresI_3_Menos_1s
+: 5 1 4 3 3 2 2 1 1 1 
+t 6 4 
+t 7 6 6 5 
+t 7 6 6 7 
+: -3 8 
+: -4 8 
+: 8 8 
+: -2 8 
+t 
+f 
+-2 enclit
+: -5 1 13 1 12 1 11 1 10 1 9 1 
+t 
+f 
+-3 enclit-s
+: -5 2 14 1 
+: 6 3 
+t 
+: -6 2 13 2 
+f 
+-4 enclit-m
+: -5 1 -7 1 13 1 
+t 
+f 
+-5 metelhe
+: 19 1 18 1 17 1 16 1 15 1 
+t 
+f 
+-6 lola
+: 20 1 
+: 23 2 21 2 
+: 24 4 22 3 
+: 24 4 
+t 
+f 
+-7 nona
+: 25 1 
+: 23 2 21 2 
+: 24 4 22 3 
+: 24 4 
+t 
+f 
+%<E>
+%mos/:P1p
+%s/:P2p
+%Lem/:P3p
+%Le/:P3s
+%Les/:P2s
+%-
+%-/+PRO
+%se
+%o/+PRO
+%a/+PRO
+%os/+PRO
+%as/+PRO
+%nos/+PRO
+%LL
+%me/+PRO
+%te/+PRO
+%lhe/+PRO
+%vos/+PRO
+%lhes/+PRO
+%l
+%a
+%s
+%o
+%<E>/+PRO
+%n
+f

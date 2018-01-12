@@ -1,0 +1,12 @@
+0000000001
+-1 PRO03
+: 5 1 4 1 3 1 2 1 1 1 
+t 
+f 
+%<E>
+%<E>/:N2ms:N2fs
+%Le/:O2ms:A2ms:D2ms:R2ms:O2fs:A2fs:D2fs:R2fs
+%Li/:O2ms:O2fs:A2ms:A2fs:D2ms:D2fs
+%LLvos/:O2mp:O2fp:A2mp:A2fp:D2mp:D2fp:R2mp:R2fp
+%LLvós/:N2mp:N2fp
+f

@@ -1,0 +1,12 @@
+0000000001
+-1 V_PresSub_3sImpera
+: 5 1 4 1 3 1 2 1 1 1 
+t 
+f 
+%<E>
+%a/:S1s:S3s
+%as/:S2s
+%amos/:S1p
+%ais/:S2p
+%am/:S3p
+f

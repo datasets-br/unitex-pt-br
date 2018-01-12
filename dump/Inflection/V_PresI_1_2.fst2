@@ -1,0 +1,73 @@
+0000000007
+-1 V_PresI_1_2
+: 6 4 5 1 4 3 3 2 2 1 1 1 
+t 7 5 
+t 8 7 7 6 
+t 8 7 7 8 
+t 7 8 
+: -3 9 
+: -4 9 
+: 9 9 
+: -2 9 
+t 
+f 
+-2 enclit
+: -5 1 14 1 13 1 12 1 11 1 10 1 
+t 
+f 
+-3 enclit-s
+: -5 2 15 1 
+: 7 3 
+t 
+: -6 2 14 2 
+f 
+-4 enclit-m
+: -5 1 -7 1 14 1 
+t 
+f 
+-5 metelhe
+: 20 1 19 1 18 1 17 1 16 1 
+t 
+f 
+-6 lola
+: 21 1 
+: 24 2 22 2 
+: 25 4 23 3 
+: 25 4 
+t 
+f 
+-7 nona
+: 26 1 
+: 24 2 22 2 
+: 25 4 23 3 
+: 25 4 
+t 
+f 
+%<E>
+%mos/:P1p
+%is/:P2p
+%m/:P3p
+%<E>/:P3s
+%s/:P2s
+%Lo/:P1s
+%-
+%-/+PRO
+%se
+%o/+PRO
+%a/+PRO
+%os/+PRO
+%as/+PRO
+%nos/+PRO
+%LL
+%me/+PRO
+%te/+PRO
+%lhe/+PRO
+%vos/+PRO
+%lhes/+PRO
+%l
+%a
+%s
+%o
+%<E>/+PRO
+%n
+f

@@ -1,0 +1,12 @@
+0000000001
+-1 PRO01
+: 5 1 4 1 3 1 2 1 1 1 
+t 
+f 
+%<E>
+%<E>/:N1ms:N1fs
+%LLme/:O1ms:A1ms:D1ms:R1ms:O1fs:A1fs:D1fs:R1fs
+%LLmim/:O1ms:O1fs
+%LLnos/:O1mp:A1mp:D1mp:R1mp:O1fp:A1fp:D1fp:R1fp
+%LLnós/:N1mp:N1fp
+f

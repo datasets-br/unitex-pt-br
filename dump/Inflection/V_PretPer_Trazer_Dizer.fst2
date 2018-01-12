@@ -1,0 +1,73 @@
+0000000007
+-1 V_PretPer_Trazer_Dizer
+: 6 1 5 4 4 3 3 2 2 2 1 1 
+t 9 5 
+t 9 6 
+t 9 8 7 7 
+t 9 5 7 7 
+: -3 9 
+: -4 9 
+: 8 9 
+: -2 9 
+t 
+f 
+-2 enclit-m
+: -5 1 -6 1 10 1 
+t 
+f 
+-3 enclit
+: -6 1 14 1 13 1 12 1 11 1 10 1 
+t 
+f 
+-4 enclit-s
+: -6 2 15 1 
+: 9 3 
+t 
+: -7 2 10 2 
+f 
+-5 nona
+: 16 1 
+: 19 2 17 2 
+: 20 4 18 3 
+: 20 4 
+t 
+f 
+-6 metelhe
+: 25 1 24 1 23 1 22 1 21 1 
+t 
+f 
+-7 lola
+: 26 1 
+: 19 2 17 2 
+: 20 4 18 3 
+: 20 4 
+t 
+f 
+%<E>
+%este/:J2s
+%emos/:J1p
+%estes/:J2p
+%eram/:J3p
+%e/:J3s
+%e/:J1s
+%-/+PRO
+%se
+%-
+%nos/+PRO
+%o/+PRO
+%a/+PRO
+%os/+PRO
+%as/+PRO
+%LL
+%n
+%a
+%s
+%o
+%<E>/+PRO
+%me/+PRO
+%te/+PRO
+%lhe/+PRO
+%vos/+PRO
+%lhes/+PRO
+%l
+f

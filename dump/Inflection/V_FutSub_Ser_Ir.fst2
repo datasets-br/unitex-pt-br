@@ -1,0 +1,68 @@
+0000000007
+-1 V_FutSub_Ser_Ir
+: -2 2 3 2 1 1 
+: 2 3 
+t 
+: -3 2 
+f 
+-2 V_FutSub_Menos1s3s
+: 7 2 6 1 5 1 4 1 
+t 2 3 
+t 8 5 2 4 
+: -4 6 
+: -5 6 
+: 9 6 
+t 
+f 
+-3 lola
+: 10 1 
+: 13 2 11 2 
+: 14 4 12 3 
+: 14 4 
+t 
+f 
+-4 enclit-s
+: -6 2 16 1 
+: 2 3 
+t 
+: -3 2 15 2 
+f 
+-5 enclit-m
+: -6 1 -7 1 15 1 
+t 
+f 
+-6 metelhe
+: 21 1 20 1 19 1 18 1 17 1 
+t 
+f 
+-7 nona
+: 22 1 
+: 13 2 11 2 
+: 14 4 12 3 
+: 14 4 
+t 
+f 
+%<E>
+%LLô/:U1s:U3s
+%-
+%<E>/:U1s:U3s
+%es/:U2s
+%mos/:U1p
+%des/:U2p
+%em/:U3p
+%-/+PRO
+%se
+%l
+%a
+%s
+%o
+%<E>/+PRO
+%nos/+PRO
+%LL
+%me/+PRO
+%te/+PRO
+%lhe/+PRO
+%vos/+PRO
+%lhes/+PRO
+%n
+f

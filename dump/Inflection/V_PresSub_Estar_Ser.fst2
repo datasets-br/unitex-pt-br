@@ -1,0 +1,12 @@
+0000000001
+-1 V_PresSub_Estar_Ser
+: 5 1 4 1 3 1 2 1 1 1 
+t 
+f 
+%<E>
+%eja/:S1s:S3s:Y3s
+%ejas/:S2s
+%ejamos/:S1p:Y1p
+%ejais/:S2p
+%ejam/:S3p:Y3p
+f

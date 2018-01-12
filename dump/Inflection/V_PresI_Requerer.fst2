@@ -1,0 +1,81 @@
+0000000008
+-1 V_PresI_Requerer
+: 6 4 5 1 4 3 3 2 2 1 1 1 
+t 7 5 
+t 8 7 7 6 
+t -5 8 8 7 
+t 7 9 
+: -3 8 
+: -4 8 
+: 9 8 
+t 
+: -2 8 
+f 
+-2 enclit
+: -6 1 14 1 13 1 12 1 11 1 10 1 
+t 
+f 
+-3 enclit-s
+: -6 2 15 1 
+: 7 3 
+t 
+: -7 2 14 2 
+f 
+-4 enclit-m
+: -6 1 -8 1 14 1 
+t 
+f 
+-5 enclit-er
+: 16 2 7 1 
+: -6 3 14 3 
+: 7 4 
+t 
+: -7 3 
+f 
+-6 metelhe
+: 21 1 20 1 19 1 18 1 17 1 
+t 
+f 
+-7 lola
+: 22 1 
+: 25 2 23 2 
+: 26 4 24 3 
+: 26 4 
+t 
+f 
+-8 nona
+: 27 1 
+: 25 2 23 2 
+: 26 4 24 3 
+: 26 4 
+t 
+f 
+%<E>
+%mos/:P1p
+%is/:P2p
+%m/:P3p
+%L/:P3s
+%s/:P2s
+%LLiro/:P1s
+%-
+%-/+PRO
+%se
+%o/+PRO
+%a/+PRO
+%os/+PRO
+%as/+PRO
+%nos/+PRO
+%LL
+%Lé
+%me/+PRO
+%te/+PRO
+%lhe/+PRO
+%vos/+PRO
+%lhes/+PRO
+%l
+%a
+%s
+%o
+%<E>/+PRO
+%n
+f

@@ -1,0 +1,27 @@
+0000000001
+-1 PRO05
+: 20 1 19 1 18 1 17 1 16 1 15 1 14 1 13 1 12 1 11 1 10 1 9 1 8 1 7 1 6 1 5 1 4 1 3 1 2 1 1 1 
+t 
+f 
+%<E>
+%<E>/:N3ms:A3ms
+%s/:N3mp:A3mp
+%La/:N3fs:A3fs
+%Las/:N3fp:A3fp
+%LLLo/:A3ms
+%LLLos/:A3mp
+%LLLa/:A3fs
+%LLLas/:A3fp
+%LLLlo/:O3ms:A3ms
+%LLLlos/:O3mp:A3mp
+%LLLla/:O3fs:A3fs
+%LLLlas/:O3fp:A3fp
+%LLLlhe/:O3ms:D3ms:O3fs:D3fs
+%LLLlhes/:O3mp:D3mp:O3fp:D3fp
+%LLLno/:O3ms:A3ms:D3ms
+%LLLnos/:O3mp:A3mp:D3mp
+%LLLna/:O3fs:A3fs:D3fs
+%LLLnas/:O3fp:A3fp:D3fp
+%LLLse/:R3ms:R3fs:R3mp:R3fp
+%LLLsi/:O3ms:O3mp:O3fs:O3fp:A3ms:A3mp:A3fs:A3fp:D3ms:D3mp:D3fs:D3fp:R3ms:R3mp:R3fs:R3fp
+f

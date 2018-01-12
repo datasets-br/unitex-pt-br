@@ -1,3 +1,5 @@
+&nbsp; [![goodtables.io](https://goodtables.io/badge/github/datasets-br/unitex-pt-br.svg)](https://goodtables.io/github/datasets-br/unitex-pt-br) &nbsp; [![](https://upload.wikimedia.org/wikipedia/commons/e/eb/PICOL_icon_View.svg) datapackage preview](http://data.okfn.org/tools/view?url=https%3A%2F%2Fraw.githubusercontent.com%2Fdatasets-br%2Funitex-pt-br%2Fmaster%2Fdatapackage.json)
+
 # unitex-pt-br
 
 The Brazilian Portuguese ([`pt-BR` language](https://en.wikipedia.org/wiki/Brazilian_Portuguese#pt-BR)),  [Unitex](http://unitexgramlab.org) *primary sources* for the vocabulary and its morphological definitions, in a open data ([FrictionlessData](https://frictionlessdata.io/)) interchange format.

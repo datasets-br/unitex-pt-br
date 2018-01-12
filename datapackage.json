@@ -24,8 +24,7 @@
   "resources": [
     {
       "name": "Alphabet.csv",
-      "path": "data/ref-applications.csv",
-      "url": "https://raw.githubusercontent.com/datasets-br/unitex-pt-br/master/data/Alphabet.csv",
+      "path": "data/Alphabet.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "rdfType": "http://wikidata.org/entity/Q540987",
@@ -44,8 +43,7 @@
     },
     {
       "name": "Alphabet_sort.csv",
-      "path": "data/ref-applications.csv",
-      "url": "https://raw.githubusercontent.com/datasets-br/unitex-pt-br/master/data/Alphabet.csv",
+      "path": "data/Alphabet_sort.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "rdfType": "http://wikidata.org/entity/Q14953108",
@@ -64,8 +62,7 @@
     },
     {
       "name": "DELAS.csv",
-      "path": "data/ref-applications.csv",
-      "url": "https://raw.githubusercontent.com/datasets-br/unitex-pt-br/master/data/DELAS.csv",
+      "path": "data/DELAS.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "title": "Dictionary of the Brazilain Portuguese Simple Words",
@@ -89,9 +86,8 @@
       "primaryKey": "lemma"
     },
     {
-      "name": "DELAS.csv",
-      "path": "data/ref-applications.csv",
-      "url": "https://raw.githubusercontent.com/datasets-br/unitex-pt-br/master/data/DELAS.csv",
+      "name": "DELACF.csv",
+      "path": "data/DELACF.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "rdfType": "http://schema.org/SoftwareApplication",

@@ -1,0 +1,13 @@
+code,description,example
+z1,general,"language joke"
+z2,specialized,"language floppy disk
+z3,very,"specialized language serialization
+Abst,abstract,patricide
+Anl,animal,horse
+AnlColl,collective,"animal flock
+Conc,concrete,chair
+ConcColl,collective,"concrete rubble
+Hum,human,teacher
+HumColl,collective,"human parliament"
+t,transitive,"verb kill"
+i,intransitive,"verb agree"

@@ -1,0 +1,20 @@
+code,description
+m,masculine
+f,feminin
+n,neuter
+s,singular
+p,plural
+1,1st person
+2,2nd person
+3,3rd person
+P,present indicative
+I,imperfect indicative
+S,present subjunctive
+T,imperfect subjunctive
+Y,present imperative
+C,present conditional
+J,simple past indicative
+W,infinitive
+G,present participle
+K,past participle
+F,future indicative

@@ -62,7 +62,7 @@
     },
     {
       "name": "DELAS.csv",
-      "path": "data/DELAS.csv",
+      "path": "data/mirror/DELAS.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "title": "Dictionary of the Brazilain Portuguese Simple Words",
@@ -70,24 +70,24 @@
       "schema": {
         "fields": [
           {
-            "name": "lemma",
+            "name": "canonical_form",
             "description": "The canonic form of a set of inflected variatns",
             "type": "string",
             "rdfType": "http://wikidata.org/entity/Q18514"
           },
           {
-            "name": "graph",
+            "name": "graph_id",
             "description": "The Unitex Graph of inflections, that generates all final forms of simple words",
             "type": "string",
             "rdfType": "http://wikidata.org/entity/Q2118599"
           }
         ]
       },
-      "primaryKey": "lemma"
+      "primaryKey": "canonical_form"
     },
     {
       "name": "DELACF.csv",
-      "path": "data/DELACF.csv",
+      "path": "data/mirror/DELACF.csv",
       "format": "csv",
       "mediatype": "text/csv",
       "rdfType": "http://schema.org/SoftwareApplication",
@@ -96,12 +96,12 @@
       "schema": {
         "fields": [
           {
-            "name": "lemma_plural",
+            "name": "form",
             "description": "The plural form of a composed variant",
             "type": "string"
           },
           {
-            "name": "lemma_singular",
+            "name": "canonical_form",
             "description": "The singular form of a composed variant",
             "type": "string"
           },
@@ -113,7 +113,7 @@
           }
         ]
       },
-      "primaryKey": "lemma_plural"
+      "primaryKey": "form"
     }
   ],
   "homepage": "https://github.com/datasets-br/unitex-pt-br"

@@ -1,0 +1,4 @@
+git_folder,fileName,original_fileName,file_size,usedFor,pubYear,sha3,DOI,url
+dump/NILC,,Formato_DELAF_PB.pdf,,dela_man_aux1.md,2004,89ecb88fe273490ffa7e643b062118250621efa7c8406434512798d7,,http://unitexgramlab.org/releases/3.1/man/Unitex-GramLab-3.1-usermanual-en.pdf
+dump/Unitex,log_svn.txt,log_svn_Portuguese (Brazil).txt,"3,4Kb",,2016,d8aacd6271ce1e7f1dcbca0fce8696a9f1214846551d50635051d3df,,?
+dump/Unitex,,Unitex-GramLab-3.1-usermanual-en.pdf,5.3Mb,,2016,1a6fd0fbd5bc71490027c5012b5e4bd908b0e6ad73c050615870562b,,http://unitexgramlab.org/releases/3.1/man/Unitex-GramLab-3.1-usermanual-en.pdf

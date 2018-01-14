@@ -1,0 +1,3 @@
+from,to,unix_line,complement,unitexToolTerminal,notes
+utf16-dic-delas-v1,utf8-csv-delas-v1,iconv -f UTF-16LE -t UTF-8 $from > $to,,,
+utf8-dic-delas-v1,utf8-csv-delas-v1,"prepend ""canonic_form,graph_id"" $from > $to",https://askubuntu.com/a/356250/439867,,"by-pass, no transformation"

@@ -1,0 +1,4 @@
+name,file_extension,precedence,description
+utf16-dic-delas-v1,dic,1,"The standard Unitex format, for all languages."
+utf8-dic-delas-v1,dic,2,"Valid option for utf16-dic-delas-v1, as standard Unitex format, but only for European languages."
+utf8-csv-delas-v1,csv,3,"Option for utf8-dic-delas-v1 in a open data-interchange context. W3C and FrictionLessData open data format. Equivalent to dic, except by adding a CSV header into the first line of the file."

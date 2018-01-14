@@ -43,6 +43,12 @@ Literatura de apoio nas discussões
 
 -->
 
+## Updating sources
+
+See [spreadsheets](https://docs.google.com/spreadsheets/d/1S-BF-ion6rY59kNRP4QYJphbsq_knAq_SPLzQ9XafjM/) do download here as [data/*.csv](data).
+
+Any other file must be validated by software (see SQL back-end).
+
 ## License
 
 * Unitex sources: [LGPLLR](https://spdx.org/licenses/LGPLLR.html) - Lesser General Public License For Linguistic Resources.
